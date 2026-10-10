@@ -5,8 +5,8 @@
 // WiFi Configuration
 // ======================================================
 
-const char* WIFI_SSID = "AndroidAP_4123";
-const char* WIFI_PASSWORD = "12345678";
+const char* WIFI_SSID = "BSC_SURESH";
+const char* WIFI_PASSWORD = "sha@6914";
 
 // ======================================================
 // Pin Configuration
